@@ -16,5 +16,20 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
+    
+    <style name="my_custom_style" parent="android:style/Theme.NoTitleBar">
+        <item name="android:buttonStyle">@style/my_button_style</item>
+    </style>
+
+    <style name="my_button_style" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_alignParentRight">false</item>
+        <item name="android:layout_centerVertical">false</item>
+        <item name="android:text">@string/hello_world</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">11sp</item>
+    </style>
 
 </resources>

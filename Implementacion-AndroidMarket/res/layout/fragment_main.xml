@@ -1,21 +1,83 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.implementacion_androidmarket.MainActivity$PlaceholderFragment" >
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="138dp"
-        android:fontFamily="@android:string/VideoView_error_button"
-        android:text="Aqui creare un menu que dirija a cada una de sus pantallas"
-        android:textSize="@dimen/activity_horizontal_margin" />
+<TableLayout 
+android:id="@+id/TableLayout01"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content" 
+android:stretchColumns="0">
+
+  <TableRow
+  android:id="@+id/TableRow01"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content">
+  
+      <ImageButton
+        android:id="@+id/BtnElige"
+
+        android:layout_width="160sp"
+        android:layout_height="120sp"
+
+        android:contentDescription="ghjghj"
+        android:scaleType="fitXY"
+        android:src="@drawable/elige" />
+    
+        <ImageButton
+        android:id="@+id/BtnSuperMer"
+        android:layout_toRightOf="@id/BtnElige"
+        android:layout_width="160sp"
+        android:layout_height="120sp"
+
+        android:contentDescription="ghjghjn"
+        android:scaleType="fitXY"
+        android:src="@drawable/supermer" />
+
+ </TableRow>
+
+<TableRow
+ android:id="@+id/TableRow02"
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content">
+ 
+     <ImageButton
+        android:id="@+id/BtnLoguin"
+      
+        android:layout_width="160sp"
+        android:layout_height="120sp"
+
+        android:contentDescription="ghjghjnjj"
+        android:scaleType="fitXY"
+        android:src="@drawable/loguin" />
+     
+      <ImageButton
+        android:id="@+id/BtnProds"
+        android:layout_toRightOf="@id/BtnLoguin"
+        android:layout_width="160sp"
+        android:layout_height="120sp"
+
+        android:contentDescription="ghjghjnjjj"
+        android:scaleType="fitXY"
+        android:src="@drawable/productos" />
+
+
+  </TableRow>
+  <TableRow
+ android:id="@+id/TableRow03"
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content">
+ 
+     <ImageButton
+        android:id="@+id/BtnClientes"
+        android:layout_width="160sp"
+        android:layout_height="120sp"
+ 
+        android:contentDescription="ghjghjnjjbd"
+        android:scaleType="fitXY"
+        android:src="@drawable/clientes" />
+
+  </TableRow>
+ </TableLayout>
 
 </RelativeLayout>

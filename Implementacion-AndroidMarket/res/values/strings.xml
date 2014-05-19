@@ -4,5 +4,10 @@
     <string name="app_name">Implementacion-AndroidMarket</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Loguin">Iniciar Sesion</string>
+    <string name="Clientes">Mantenimiento Clientes</string>
+    <string name="SuperMercados">Mantenimiento Supermercados</string>
+    <string name="Productos">Mantenimiento Productos</string>
+    <string name="Elegir">Eleccion Supermercado</string>
 
 </resources>
