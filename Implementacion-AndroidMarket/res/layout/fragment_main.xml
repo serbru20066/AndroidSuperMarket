@@ -183,24 +183,6 @@
 	</TableLayout>
     
     
-    <TextView  
-		android:id="@+id/txBienvenida"
-    	android:layout_width="fill_parent" 
-    	android:layout_height="wrap_content" 
-    	android:gravity="center"
-    	android:textStyle="bold"
-    	android:textColor="#000000"
-    	android:text="Diseño de layouts (c) 2011. Ignacio Iglesias"
-    />
-    
-    <TextView  
-		android:id="@+id/txBienvenida"		
-    	android:layout_width="fill_parent" 
-    	android:layout_height="wrap_content" 
-    	android:gravity="center"
-    	android:textColor="#000000"    	
-    	android:textStyle="bold"
-    	android:text="ignacionario.blogspot.com"
-    />
+
     
 </LinearLayout>
