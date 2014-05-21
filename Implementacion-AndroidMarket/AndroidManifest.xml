@@ -22,6 +22,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <activity
+            android:name=".MantenimientoSupermercado"
+            android:label="MANTENIMIENTO DE SUPER" >
+            <intent-filter>
+                <action android:name="com.example.implementacion_androidmarket.MANTENIMIENTOSUPERMERCADO" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
     </application>
 
 </manifest>
