@@ -6,7 +6,11 @@
     <string name="action_settings">Settings</string>
     <string name="Loguin">Iniciar Sesion</string>
     <string name="Clientes">Mantenimiento Clientes</string>
-    <string name="SuperMercados">Mantenimiento Supermercados</string>
+    
+    <string name="SuperMercados">Mantenimiento</string>
+    <string name="AgregarSuperMercados">Agregar</string>
+    <string name="BuscarSuperMercados">Buscar</string>
+    
     <string name="Productos">Mantenimiento Productos</string>
     <string name="Elegir">Eleccion Supermercado</string>
 
