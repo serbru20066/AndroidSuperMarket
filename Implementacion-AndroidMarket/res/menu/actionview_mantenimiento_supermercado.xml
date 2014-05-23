@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+   <item
+        android:id="@+id/buscar_supermercado"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/BuscarSuperMercados"/>
+
+    <item
+        android:id="@+id/nuevo_supermercado"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/AgregarSuperMercados"/>
+    
+</menu>
