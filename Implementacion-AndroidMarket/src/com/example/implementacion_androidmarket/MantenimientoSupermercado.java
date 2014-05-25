@@ -28,15 +28,19 @@ public class MantenimientoSupermercado extends Activity {
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		// TODO Auto-generated method stub
+		
 		switch (item.getItemId()) {
-		case R.id.buscar_supermercado:
+		
+			case R.id.buscar_supermercado:
 			
-			break;
-		case R.id.nuevo_supermercado:
-
-			break;
-		default:
-			break;
+				break;
+			case R.id.nuevo_supermercado:
+				
+				
+				
+				break;
+			default:
+				break;
 		}
 		
 		return super.onOptionsItemSelected(item);
