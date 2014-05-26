@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#16D2F7" >
+    
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="52dp"
+	    android:gravity="center"
+	    android:orientation="horizontal" >
+	    
+	    <TextView  
+			android:id="@+id/tvTexto"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:gravity="center"
+		    android:text="NUEVO SUPERMERCADO"
+		    android:textStyle="bold"
+		    android:textSize="20sp"
+		    android:textColor="#000000" />
+	    
+	</LinearLayout>
+	
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="5dp"
+	    android:gravity="center"
+	    android:orientation="horizontal" >
+	    
+	    <View
+	        android:layout_width="fill_parent"
+		    android:layout_height="5dip"
+		    android:background="#FFFFFF" />
+	    
+	</LinearLayout>
+	
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:gravity="center" >
+
+	    <LinearLayout	        
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical"
+	    	android:weightSum="10"
+	    	android:gravity="left" >
+
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="34dp"
+	            android:paddingTop="10dp"
+	            android:text="Razón Social"
+	            android:textSize="15sp" />
+
+	        <EditText
+	            android:id="@+id/etRazonSocial"
+	            android:layout_width="260dp"
+	            android:layout_height="wrap_content"
+	            android:ems="10"
+	            android:hint="Razón Social" >
+	            <requestFocus />
+	            
+	        </EditText>
+	    	
+	    </LinearLayout>
+	    
+	    <LinearLayout	        
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical"
+	    	android:weightSum="10"
+	    	android:gravity="left" >
+
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="34dp"
+	            android:paddingTop="10dp"
+	            android:text="RUC"
+	            android:textSize="15sp" />
+
+	        <EditText
+	            android:id="@+id/etRuc"
+	            android:layout_width="260dp"
+	            android:layout_height="wrap_content"
+	            android:ems="10"
+	            android:inputType="numberDecimal"
+	            android:hint="RUC" />
+	    	
+	    </LinearLayout>
+	    
+	    <LinearLayout	        
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical"
+	    	android:weightSum="10"
+	    	android:gravity="left" >
+
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="34dp"
+	            android:paddingTop="10dp"
+	            android:text="Grupo"
+	            android:textSize="15sp" />
+
+	        <Spinner
+	            android:id="@+id/spGrupo"
+	            android:layout_width="260dp"
+	            android:layout_height="wrap_content"
+	            android:ems="10"
+	            android:prompt="@string/grupo_prompt"
+	            android:spinnerMode="dropdown" />
+	    	
+	    </LinearLayout>
+	    
+	    <LinearLayout	        
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical"
+	    	android:weightSum="10"
+	    	android:gravity="left" >
+
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="34dp"
+	            android:paddingTop="10dp"
+	            android:text="Dirección"
+	            android:textSize="15sp" />
+
+	        <EditText
+	            android:id="@+id/etDireccion"
+	            android:layout_width="260dp"
+	            android:layout_height="wrap_content"
+	            android:gravity="left"
+	            android:inputType="textMultiLine"
+	            android:lines="5"
+	            android:scrollHorizontally="false"
+	            android:hint="Dirección" />
+	    	
+	    </LinearLayout>
+	    
+	    <LinearLayout	        
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical"
+	    	android:weightSum="10"
+	    	android:gravity="left" >
+
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="34dp"
+	            android:paddingTop="10dp"
+	            android:text="Teléfono 1"
+	            android:textSize="15sp" />
+
+	        <EditText
+	            android:id="@+id/etTelefono1"
+	            android:layout_width="260dp"
+	            android:layout_height="wrap_content"
+	            android:ems="10"
+	            android:inputType="numberDecimal"
+	            android:hint="Teléfono 1" />
+	    	
+	    </LinearLayout>
+	    
+	    <LinearLayout	        
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical"
+	    	android:weightSum="10"
+	    	android:gravity="left" >
+
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="34dp"
+	            android:paddingTop="10dp"
+	            android:text="Teléfono 2"
+	            android:textSize="15sp" />
+
+	        <EditText
+	            android:id="@+id/etTelefono2"
+	            android:layout_width="260dp"
+	            android:layout_height="wrap_content"
+	            android:ems="10"
+	            android:inputType="numberDecimal"
+	            android:hint="Teléfono 2" />
+	    	
+	    </LinearLayout>
+	    
+	</LinearLayout>
+    
+</LinearLayout>

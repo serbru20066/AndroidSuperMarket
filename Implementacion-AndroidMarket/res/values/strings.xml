@@ -10,6 +10,8 @@
     <string name="SuperMercados">Mantenimiento</string>
     <string name="AgregarSuperMercados">Agregar</string>
     <string name="BuscarSuperMercados">Buscar</string>
+    <string name="AgregarSuperMercado">Nuevo Supermercado</string>
+    <string name="grupo_prompt">Elija Grupo</string>
     
     <string name="Productos">Mantenimiento Productos</string>
     <string name="Elegir">Eleccion Supermercado</string>

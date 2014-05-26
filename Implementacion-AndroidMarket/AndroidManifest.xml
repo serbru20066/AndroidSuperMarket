@@ -33,6 +33,16 @@
             </intent-filter>
         </activity>
         
+        <activity
+            android:name=".NuevoSupermercado"
+            android:label="@string/AgregarSuperMercado" >
+            <intent-filter>
+                <action android:name="com.example.implementacion_androidmarket.AGREGARSUPERMERCADO" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
     </application>
 
 </manifest>

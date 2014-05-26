@@ -1,27 +1,23 @@
 package com.example.implementacion_androidmarket;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.TextView;
 
 public class MantenimientoSupermercado extends Activity {
-	
-	TextView tv;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.mantenimiento_supermercado);
-		
-		tv = (TextView) findViewById(R.id.tvTexto);
 	}	
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// TODO Auto-generated method stub
-		getMenuInflater().inflate(R.menu.actionview_mantenimiento_supermercado, menu);
+		getMenuInflater().inflate(R.menu.mantenimiento_supermercado, menu);
 		return true;
 	}	
 	
@@ -36,7 +32,8 @@ public class MantenimientoSupermercado extends Activity {
 				break;
 			case R.id.nuevo_supermercado:
 				
-				
+				Intent i = new Intent(this, NuevoSupermercado.class);
+				startActivity(i);
 				
 				break;
 			default:
