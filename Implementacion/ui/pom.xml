@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>pe.edu.upc.supermarket</groupId>
+        <artifactId>supermarket</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    <groupId>pe.edu.upc.supermarket</groupId>
+    <artifactId>supermarket-ui</artifactId>
+    <packaging>aar</packaging>
+    <name>Supermarket</name>
+    <description>Supermarket.</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.android</groupId>
+            <artifactId>android</artifactId>
+            <version>4.1.1.4</version>
+        </dependency>
+
+    </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.jayway.maven.plugins.android.generation2</groupId>
+                <artifactId>android-maven-plugin</artifactId>
+                <version>3.9.0-rc.2</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <release>false</release>
+                    <sign>
+                        <debug>false</debug>
+                    </sign>
+                    <androidManifestFile>${project.basedir}/src/main/AndroidManifest.xml</androidManifestFile>
+                    <resourceDirectory>${project.basedir}/src/main/res</resourceDirectory>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
