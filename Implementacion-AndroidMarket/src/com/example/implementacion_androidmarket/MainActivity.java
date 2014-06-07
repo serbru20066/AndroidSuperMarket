@@ -64,11 +64,10 @@ public class MainActivity extends Activity implements OnClickListener {
 			mantSupermercado = (Button) rootView.findViewById(R.id.btMantSupermercado);
 			mantSupermercado.setOnClickListener(new View.OnClickListener() {
 				
-				@Override
 				public void onClick(View v) {
 					// TODO Auto-generated method stub
-					Intent i = new Intent(getActivity(), MantenimientoSupermercado.class);
-					startActivity(i);
+				//	Intent i = new Intent(getActivity(), MantenimientoSupermercado.class);
+				//	startActivity(i);
 				}
 			});
 				
@@ -76,7 +75,6 @@ public class MainActivity extends Activity implements OnClickListener {
 		}
 	}
 
-	@Override
 	public void onClick(View v) {
 		// TODO Auto-generated method stub
 		
