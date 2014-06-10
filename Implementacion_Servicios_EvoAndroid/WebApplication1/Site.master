@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" CodeBehind="Site.master.cs" Inherits="WebApplication1.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Sitio de datos dinámicos</title>
+    <link href="~/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <h1 class="DDMainHeader">Sitio de datos dinámicos</h1>
+    <div class="DDNavigation">
+        <a runat="server" href="~/"><img alt="Volver a la página principal" runat="server" src="DynamicData/Content/Images/back.gif" />Volver a la página principal</a>
+    </div>
+
+    <form id="form1" runat="server">
+    <div>
+        <%-- TODO: Habilite la presentación parcial estableciendo el atributo EnablePartialRendering en "true" para ofrecer una experiencia de exploración más regular.
+             Si se deja la presentación parcial deshabilitada, se consigue una experiencia de depuración mejor cuando la aplicación está en desarrollo. --%>
+        <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePartialRendering="false"/>
+        
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
+

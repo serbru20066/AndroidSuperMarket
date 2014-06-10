@@ -1,0 +1,81 @@
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\bin\Debug\DL.Dalc.dll
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\bin\Debug\DL.Dalc.pdb
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\bin\Debug\BL.BE.dll
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\bin\Debug\DL.DataModel.dll
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\bin\Debug\BL.BE.pdb
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\bin\Debug\DL.DataModel.pdb
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\obj\Debug\DL.Dalc.dll
+C:\Users\bruno.cardenas\documents\visual studio 2010\Projects\pruebaServicio\DL.Dalc\obj\Debug\DL.Dalc.pdb
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\bin\Debug\DL.Dalc.dll
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\bin\Debug\DL.Dalc.pdb
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\bin\Debug\BL.BE.dll
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\bin\Debug\DL.DataModel.dll
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\bin\Debug\BL.BE.pdb
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\bin\Debug\DL.DataModel.pdb
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\obj\Debug\DL.Dalc.dll
+C:\Users\bruno\Desktop\pruebaServicio\DL.Dalc\obj\Debug\DL.Dalc.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.csprojResolveAssemblyReference.cache
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.pdb
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.dll
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.pdb
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.dll
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.dll
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.pdb
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.pdb
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.dll
+C:\Users\home\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.pdb
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.dll
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.pdb
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.dll
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.dll
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.pdb
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.pdb
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.dll
+\\vmware-host\Shared Folders\bru\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\bin\Debug\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\DL.Dalc\obj\Debug\DL.Dalc.pdb

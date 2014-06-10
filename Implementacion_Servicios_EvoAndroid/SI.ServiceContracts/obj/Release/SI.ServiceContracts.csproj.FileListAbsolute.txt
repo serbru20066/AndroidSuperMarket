@@ -1,0 +1,45 @@
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.csprojResolveAssemblyReference.cache
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.ServiceContracts.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\bin\Release\SI.DataContract.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.ServiceContracts\obj\Release\SI.ServiceContracts.pdb

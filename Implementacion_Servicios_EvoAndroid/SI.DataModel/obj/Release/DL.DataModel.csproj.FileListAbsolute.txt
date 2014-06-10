@@ -1,0 +1,24 @@
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll.config
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.csprojResolveAssemblyReference.cache
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll.config
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll.config
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll.config
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.DataModel\bin\Release\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\SI.DataModel\obj\Release\DL.DataModel.pdb

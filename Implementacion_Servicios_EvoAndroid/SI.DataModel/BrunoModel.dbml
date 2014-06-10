@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="trabajoandroid" Class="BrunoModelDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=trabajoandroid.mssql.somee.com;Initial Catalog=trabajoandroid;User ID=u820517_SQLLogin_1" SettingsObjectName="DL.DataModel.Properties.Settings" SettingsPropertyName="trabajoandroidConnectionString3" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Administrador" Member="Administradors">
+    <Type Name="Administrador">
+      <Column Name="CodAdministrador" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NomAdministrador" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="ApeAdministrados" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Usuario" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Contrasena" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="RutaIMG" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Cliente" Member="Clientes">
+    <Type Name="Cliente">
+      <Column Name="CodCliente" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NomCliente" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="ApeCliente" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Direccion" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Correo" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Usuario" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Contrasena" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="RutaIMG" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Cliente_Compra" Member="Compras" ThisKey="CodCliente" OtherKey="CodCliente" Type="Compra" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Compra" Member="Compras">
+    <Type Name="Compra">
+      <Column Name="CodCompra" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CodCliente" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FecCompra" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="total" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Compra_Compra_Producto_SuperMercado" Member="Compra_Producto_SuperMercados" ThisKey="CodCompra,CodCliente" OtherKey="CodCompra,CodCliente" Type="Compra_Producto_SuperMercado" />
+      <Association Name="Cliente_Compra" Member="Cliente" ThisKey="CodCliente" OtherKey="CodCliente" Type="Cliente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Compra_Producto_SuperMercado" Member="Compra_Producto_SuperMercados">
+    <Type Name="Compra_Producto_SuperMercado">
+      <Column Name="CodCompra" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CodCliente" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CodProducto" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CodSuperMercado" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SubTotal" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Compra_Compra_Producto_SuperMercado" Member="Compra" ThisKey="CodCompra,CodCliente" OtherKey="CodCompra,CodCliente" Type="Compra" IsForeignKey="true" />
+      <Association Name="Producto_SuperMercado_Compra_Producto_SuperMercado" Member="Producto_SuperMercado" ThisKey="CodProducto,CodSuperMercado" OtherKey="CodProducto,CodSuperMercado" Type="Producto_SuperMercado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Producto" Member="Productos">
+    <Type Name="Producto">
+      <Column Name="CodProducto" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NomProducto" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Categoria" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Marca" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="FecVencimiento" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="RutaIMG" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Association Name="Producto_Producto_SuperMercado" Member="Producto_SuperMercados" ThisKey="CodProducto" OtherKey="CodProducto" Type="Producto_SuperMercado" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Producto_SuperMercado" Member="Producto_SuperMercados">
+    <Type Name="Producto_SuperMercado">
+      <Column Name="CodProducto" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CodSuperMercado" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Precio" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Stock" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Oferta" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="Producto_SuperMercado_Compra_Producto_SuperMercado" Member="Compra_Producto_SuperMercados" ThisKey="CodProducto,CodSuperMercado" OtherKey="CodProducto,CodSuperMercado" Type="Compra_Producto_SuperMercado" />
+      <Association Name="Producto_Producto_SuperMercado" Member="Producto" ThisKey="CodProducto" OtherKey="CodProducto" Type="Producto" IsForeignKey="true" />
+      <Association Name="SuperMercado_Producto_SuperMercado" Member="SuperMercado" ThisKey="CodSuperMercado" OtherKey="CodSuperMercado" Type="SuperMercado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SuperMercado" Member="SuperMercados">
+    <Type Name="SuperMercado">
+      <Column Name="CodSuperMercado" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NomSuperMercado" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Ruc" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="PaginaWeb" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="RutaIMG" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="SuperMercado_Producto_SuperMercado" Member="Producto_SuperMercados" ThisKey="CodSuperMercado" OtherKey="CodSuperMercado" Type="Producto_SuperMercado" />
+    </Type>
+  </Table>
+</Database>

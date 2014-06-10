@@ -1,0 +1,55 @@
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.pdb
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.csprojResolveAssemblyReference.cache
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.dll
+D:\Users\Bruno64\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.pdb
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.dll
+C:\Users\jorge\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.dll
+C:\Users\brunoWin7\Desktop\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.dll
+C:\Users\brunoWin7\Desktop\escritorio archivos\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BC.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\BL.BE.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.Dalc.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\bin\Release\DL.DataModel.pdb
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.csprojResolveAssemblyReference.cache
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.dll
+C:\Users\brunoWin7\Desktop\servicios trabajo android\pruebaServicio_TrabajoAndroid\BL.BC\obj\Release\BL.BC.pdb

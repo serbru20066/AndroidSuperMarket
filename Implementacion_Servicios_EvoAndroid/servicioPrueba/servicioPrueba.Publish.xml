@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://localhost/ServPrb" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/SI.ServiceImplementation.pdb" publishTime="02/20/2013 13:03:41" />
+    <file relUrl="bin/SI.ServiceContracts.dll" publishTime="02/20/2013 13:03:41" />
+    <file relUrl="bin/SI.DataContract.pdb" publishTime="02/20/2013 11:18:42" />
+    <file relUrl="bin/SI.DataContract.dll" publishTime="02/20/2013 11:18:43" />
+    <file relUrl="Web.config" publishTime="02/20/2013 11:18:50" />
+    <file relUrl="bin/servicioPrueba.dll" publishTime="02/20/2013 13:03:42" />
+    <file relUrl="Service1.svc" publishTime="02/18/2013 12:24:41" />
+    <file relUrl="bin/servicioPrueba.pdb" publishTime="02/20/2013 13:03:42" />
+    <file relUrl="bin/SI.ServiceImplementation.dll" publishTime="02/20/2013 13:03:41" />
+    <file relUrl="bin/SI.ServiceContracts.pdb" publishTime="02/20/2013 13:03:41" />
+  </publishProfile>
+</publishData>

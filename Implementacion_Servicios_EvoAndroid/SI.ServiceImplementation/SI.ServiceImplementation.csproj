@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{46327F97-F5C7-4C95-8520-D8D02F78686F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SI.ServiceImplementation</RootNamespace>
+    <AssemblyName>SI.ServiceImplementation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BrunoSI.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TranslatorHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BL.BC\BL.BC.csproj">
+      <Project>{3E4AE4C3-F6C4-434B-A7B7-BAAB74C9E46A}</Project>
+      <Name>BL.BC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BL.BE\BL.BE.csproj">
+      <Project>{B8381572-DCD3-4577-8A9E-42BBD0D107C5}</Project>
+      <Name>BL.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DL.Dalc\DL.Dalc.csproj">
+      <Project>{FACA7434-AA09-4A74-8562-5D652F6C36FC}</Project>
+      <Name>DL.Dalc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SI.DataContract\SI.DataContract.csproj">
+      <Project>{7D2B8CED-F7A1-4998-BE02-493215E88497}</Project>
+      <Name>SI.DataContract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SI.DataModel\DL.DataModel.csproj">
+      <Project>{7E8B222A-8FE0-4E9D-9EFC-57F608E7775F}</Project>
+      <Name>DL.DataModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SI.ServiceContracts\SI.ServiceContracts.csproj">
+      <Project>{0C54BF31-C756-48C1-BB40-1110A502A184}</Project>
+      <Name>SI.ServiceContracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
