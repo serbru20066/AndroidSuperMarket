@@ -43,5 +43,6 @@
     <string name="lblRegistrarAceptoTerminos">Acepto todos los terminos y condiciones</string>
     <string name="lblRegistrarTerminos">Terminos y condiciones</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_productos">ProductosActivity</string>
 
 </resources>

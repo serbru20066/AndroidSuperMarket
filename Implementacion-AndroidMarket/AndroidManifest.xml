@@ -40,6 +40,10 @@
             android:name="com.example.implementacion_androidmarket.SupermercadosActivity"
             android:label="@string/SuperMercados" >
         </activity>
+        <activity
+            android:name="com.example.implementacion_androidmarket.ProductosActivity"
+            android:label="@string/title_activity_productos" >
+        </activity>
     </application>
 
 </manifest>

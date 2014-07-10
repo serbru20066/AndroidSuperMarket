@@ -10,5 +10,6 @@
 	<classpathentry exported="true" kind="lib" path="/Users/garyfimo/Documents/workspace/CatalogosVirtualesServicios/libs/gson-2.2.4-javadoc.jar"/>
 	<classpathentry exported="true" kind="lib" path="/Users/garyfimo/Documents/workspace/CatalogosVirtualesServicios/libs/gson-2.2.4-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="/Users/garyfimo/Documents/workspace/CatalogosVirtualesServicios/libs/gson-2.2.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
